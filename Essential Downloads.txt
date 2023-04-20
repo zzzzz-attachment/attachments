@@ -1,0 +1,10 @@
+Essential Downloads:
+VirtualBox Download Page: https://www.virtualbox.org/wiki/Downloads
+
+Kali Linux VM (Easier Setup): https://www.offensive-security.com/kali-linux-vmware-virtualbox-image-download/
+
+Kali Linux ISO (Longer Setup using ISO Images): https://www.kali.org/downloads/
+
+Metasploitable VM: https://www.offensive-security.com/metasploit-unleashed/requirements/
+
+Metasploitable Official Download Location (More hoops to jump through to get to the download): https://information.rapid7.com/metasploitable-download.html
